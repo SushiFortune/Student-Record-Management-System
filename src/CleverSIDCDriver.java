@@ -5,7 +5,7 @@ import java.util.Scanner;
  * CleverSIDCDriver is the main driver class for the NASTA CleverSIDC project.
  * It allows users to interact with the CleverSIDC data structure by providing a command-line interface for various operations.
  * The driver prompts users to set the number of students to track, reads data from a file, and performs operations based on user choices.
- * @author Rania Maoukout(40249281) & Barbara Eguche(40245327)
+ * @author Rania Maoukout & teammate
  */
 public class CleverSIDCDriver {
     public static void main(String[] args) {
