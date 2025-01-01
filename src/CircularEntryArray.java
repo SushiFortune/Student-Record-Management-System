@@ -2,7 +2,7 @@
 /**
  * CircularEntryArray class represents a circular array data structure with key-value pairs.
  * It extends the CleverSIDC class and provides methods for managing, sorting, and retrieving data in the array.
- * @author Rania Maoukout(40249281) & Barbara Eguche(40245327)
+ * @author Rania Maoukout & teammate
  */
 public class CircularEntryArray extends CleverSIDC {
     private int rearOfArray = 0, sizeOfArray; private long[] keys; private String[] values;
