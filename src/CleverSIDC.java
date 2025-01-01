@@ -7,7 +7,7 @@ import java.util.Random;
  * Additionally, it contains overridden methods for both CircularArray and AVLTree operations when applicable.
  * The choice between CircularArray and AVLTree is determined by the size threshold specified during initialization.
  * Implements the main functionalities of the CleverSIDC data structure.
- * @author Rania Maoukout(40249281) & Barbara Eguche(40245327)
+ * @author Rania Maoukout & teammate
  */
 public class CleverSIDC {
     private CircularEntryArray sidcArray; private AvlTree sidcTree; private AvlTree.AvlTreeNode sidcNode;
