@@ -2,7 +2,7 @@
 /**
  * Implementation of a self-balancing AVL Tree, an extension of the CleverSIDC framework.
  * AVL trees maintain balance to ensure efficient search, insertion, and deletion operations.
- * @author Rania Maoukout(40249281) & Barbara Eguche(40245327)
+ * @author Rania Maoukout & teammate
  */
 public class AvlTree extends CleverSIDC {
     /**
